@@ -3,8 +3,8 @@
 <svg version="1.1" id="_1170px_grid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1560 272" style="enable-background:new 0 0 1560 272;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#ED474E;}
-	.st1{fill:#436CA9;}
+	.st0{fill:#ED474E;stroke:#ED474E;stroke-miterlimit:10;}
+	.st1{fill:#436CA9;stroke:#436CA9;stroke-miterlimit:10;}
 </style>
 <path class="st0" d="M769.8,175.3l29.7,77.1c3,7.5,7.5,10.5,13.5,10.5h42c9,0,12-7.5,9-15l-33.5-81c22.4-10.1,39-30.2,39-71.5v-6.5
 	c0-70.1-48.4-79.9-91.2-79.9l-74.8,0.1c-7.5,0-12,3-12,12v229.7c0,7.5,4.5,12,12,12H741c7.5,0,12-4.5,12-12l-0.3-63.8h0v-65.1v-2.3
