@@ -30,3 +30,8 @@ If you have a sketch of an idea or a logo or a design that you want made into a 
 ### Share an idea
 
 Are you not very artistic but have a good idea for a stencil? You could create [a new issue](https://github.com/drewrwilson/mozfest-stencils/issues/new) on this github project and I'll read it
+
+
+## Other related projects
+
+You might also be interested in [Stencil Validator](https://drewrwilson.com/stencilvalidator/) (here's the [code on github](https://github.com/drewrwilson/stencilvalidator))--it's a web tool to check if a given design is a valid stencil that could be produced with a laser cutter. If you're a javascript wizard who knows how to work with SVGs, you could be a huge help on that project.
