@@ -1,10 +1,8 @@
 # mozfest-stencils
-stencils for mozfest 2016
 
+This is a collection of laser cuttable stencils that will be available at [MozFest 2016](https://mozillafestival.org/).
 
-This is a collection of laser cuttable stencils.
-
-For the [MozFest 2016](https://mozillafestival.org/), I am hosting a station called "Making Change: DIY Activist Art". We'll be print shirts, patches, tote bags, posters, making buttons and other activisty art. This github project is where I'm storing the files that I'm using to make the stencils and designs.
+On October 28-30 at MozFest in London, I'm hosting a station called "Making Change: DIY Activist Art". We'll be print shirts, patches, tote bags, posters, making buttons and other activisty art. This github project is where I'm storing the files that I'm using to make the stencils and designs.
 
 ## What is this github project?
 
