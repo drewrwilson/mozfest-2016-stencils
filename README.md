@@ -4,6 +4,8 @@ This is a collection of laser cuttable stencils that will be available at [MozFe
 
 On October 28-30 at MozFest in London, I'm hosting a station called "Making Change: DIY Activist Art". We'll be print shirts, patches, tote bags, posters, making buttons and other activisty art. This github project is where I'm storing the files that I'm using to make the stencils and designs.
 
+![](https://github.com/drewrwilson/mozfest-2016-stencils/blob/master/misc/i-heart-encryption.jpg?raw=true)
+
 ## What is this github project?
 
 By storing designs here I'm intending to allow a way for others to participate in creating these designs. Jump below if you have a design that you'd like laser cut for MozFest 2016.
